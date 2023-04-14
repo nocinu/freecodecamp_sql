@@ -1,0 +1,3 @@
+courses_course_id_seq
+students_student_id_seq
+majors_major_id_seq
